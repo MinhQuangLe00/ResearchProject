@@ -1,4 +1,4 @@
-# minimalsocialapp
+# Research Project
 
 A new Flutter project.
 
